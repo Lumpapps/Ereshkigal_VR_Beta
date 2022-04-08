@@ -13,3 +13,4 @@ Saved
 *.xcodeproj
 *.xcworkspace
 #Starter Content
+Content/StarterContent/*
